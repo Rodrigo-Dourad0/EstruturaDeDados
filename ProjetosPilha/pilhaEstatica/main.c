@@ -4,7 +4,7 @@
 int main(){
 
     printf("Ola mundo");
-    system("pause")
+    system("pause");
     return 0;
 
 }
