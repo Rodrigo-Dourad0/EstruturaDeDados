@@ -1,2 +1,2 @@
-# Estrutura De Dados
- Repositório das estruturas estudadas na matéria de Estrutura de Dados.
+# Estudos
+ Repositório dos meus estudos xd;
