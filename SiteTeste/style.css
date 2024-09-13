@@ -1,10 +1,12 @@
 body{
     background-color: rgb(4, 4, 24);
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
 }
 
 main{
-    background-color: aliceblue;
-    width: 300px;
+    background-color: rgb(255, 0, 0);
+    width: 600px;
     height: 400px;
     border-radius: 4%;
     padding: 15px;
@@ -21,34 +23,3 @@ div{
    
 }
 
-header{
-    padding: 12px;
-    width: 100px;
-    background-color: rgb(20, 29, 58);
-    color: aliceblue;
-    text-align: center;
-    margin: auto;
-    border-radius: 4%;
-    
-
-}
-
-#item1{
-    text-align: center;
-    margin-bottom: 5px ;
-    margin-top: 10px;
-    width: 100px;
-    height: 70px;
-}
-#item2{
-    text-align: center;
-    margin-bottom: 5px ;
-    width: 100px;
-    height: 70px;
-}
-#item3{
-    text-align: center;
-    margin-bottom: 5px ;
-    width: 100px;
-    height: 70px;
-}
